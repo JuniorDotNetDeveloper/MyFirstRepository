@@ -14,7 +14,7 @@ namespace FirstProjectForGit
             Console.WriteLine("was defined a link on static class\n");
 
             Console.WriteLine("i will call static method");
-            // this method print some text
+            // this method print some textf
 
             Console.ReadLine();
         }
