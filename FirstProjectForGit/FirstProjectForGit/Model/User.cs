@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FirstProjectForGit.Model
 {
-    public class User2
+    public class User
     {
         public int UserID { get; set; }
         public string FirstName { get; set; }
