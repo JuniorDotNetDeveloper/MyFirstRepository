@@ -17,9 +17,15 @@ namespace FirstProjectForGit
         {
             Console.WriteLine("this is the normal constructor");
         }
+
         public static void WriteTextMethod()
         {
             Console.WriteLine("you invoked static method");
+        }
+
+        public void ShowDate()
+        {
+            Console.WriteLine(DateTime.Now);
         }
     }
 }
