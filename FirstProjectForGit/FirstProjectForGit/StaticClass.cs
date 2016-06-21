@@ -20,6 +20,7 @@ namespace FirstProjectForGit
         public static void WriteTextMethod()
         {
             Console.WriteLine("you invoked static method");
+            Console.WriteLine("new text added from testBranche");
         }
     }
 }
