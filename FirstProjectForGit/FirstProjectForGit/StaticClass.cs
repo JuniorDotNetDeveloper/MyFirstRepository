@@ -21,6 +21,8 @@ namespace FirstProjectForGit
         public static void WriteTextMethod()
         {
             Console.WriteLine("you invoked static method");
+
+            Console.WriteLine("hi");
             
         }
 
