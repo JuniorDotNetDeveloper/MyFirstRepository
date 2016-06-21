@@ -15,8 +15,6 @@ namespace FirstProjectForGit
 
             Console.WriteLine("i will call static method");
             StaticClass.WriteTextMethod(); // this method print some text
-            StaticClass.WriteTextMethod(); // this method print some text
-            StaticClass.WriteTextMethod(); // this method print some text
             Console.ReadLine();
         }
     }
