@@ -16,7 +16,7 @@ namespace FirstProjectForGit.Model
         public void ShowTime()
         {
             Console.WriteLine(DateTime.Now);
-            Console.ReadKey();
+           
         
         }
 
